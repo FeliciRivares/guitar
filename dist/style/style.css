@@ -77,7 +77,7 @@ main {
   color: #000;
 }
 .nav-menu__item a:hover {
-  transintio: 0.5s;
+  transition: 0.5s;
   color: #a59595;
 }
 
